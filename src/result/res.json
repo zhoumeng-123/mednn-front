@@ -1,0 +1,8 @@
+{
+  "d_exit": [1000, 1000, 1000],
+    "e_exit": [0, 0, 0],
+    "latency": [50, 50, 50],
+                 "avg_latency": 50.0,
+                 "accuracy": 90.5
+}
+// result_info = {}
